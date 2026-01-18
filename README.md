@@ -1,2 +1,3 @@
-# mba-ia-desafio-ingestao-busca
-mba fulcycle ia desafio ingestao busca com langchain
+# Desafio MBA Engenharia de Software com IA - Full Cycle
+
+Descreva abaixo como executar a sua solução.
